@@ -29,8 +29,8 @@ Each card is a reusable component that receives unique data through **props**, d
 
 ## 🧩 Preview
 
-![Preview Screenshot](./preview.png)  
-> *(Add your screenshot here)*
+<img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/83caddbb-bfa6-497c-9dbc-8b43ae46875e" />
+
 
 ---
 
